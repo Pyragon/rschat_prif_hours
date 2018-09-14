@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Pyragon/rschat_prif_hours/issues"
   },
-  "homepage": "https://github.com/Pyragon/rschat_prif_hours#readme"
+  "homepage": "https://github.com/Pyragon/rschat_prif_hours#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
